@@ -7,6 +7,7 @@ This repository is created to help collaborate with the Snake And Ladder (Escape
 2. Player design
 3. Form1_load
 4. Form2_load
+
 #Things To Do:
 1. Add computer logic
 2. Randoming board
