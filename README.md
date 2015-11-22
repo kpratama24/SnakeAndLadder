@@ -23,5 +23,9 @@ private void computer_logic()
   rollDice_forCom(); //this method will roll the dice for the computer
   //else do only the ordinary logic
 }
+```
+
+For more information about C# basic and how to, check this out:
+[C# Basic] (https://msdn.microsoft.com/en-us/library/aa288436%28v=vs.71%29.aspx)
 
 
