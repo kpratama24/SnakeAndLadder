@@ -12,4 +12,16 @@ This repository is created to help collaborate with the Snake And Ladder (Escape
 1. Add computer logic
 2. Randoming board
 
+##Computer Logic :
+```
+private void computer_logic()
+{
+  //if there is one player available as "COM" then do :
+  /**
+  * ordinary logic for rolling the dice
+  */
+  rollDice_forCom(); //this method will roll the dice for the computer
+  //else do only the ordinary logic
+}
+
 
